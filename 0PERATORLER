@@ -1,0 +1,27 @@
+2 ) ATAMA OPERATORLARİ
+1.=:değişkene veri atar
+2.+=:ekleme yapar
+3.-=:azaltma yapar 
+4.*=:katını alır
+5./=: bölümünü alır 
+6.**=kuvvetini alır 
+a=5 
+a+=2
+a**=2
+print (a)
+3)KIYASLAMA OPERATÖRLERİ
+2 farklı veri ya dadeğişkenleri kıyasalamak amacıyla kullanılır. değeri mantıksal veridir
+1.>:soldaki verinin sağdakinden büyük olmasına bakar
+2.<:soldaki verinin sağdakinden küçük olmasına bakar
+3.>=:soldaki verinin sağdakinden büyük ya da eşit olmasına bakar
+4.<=:soldaki verinin sağdakinden küçük ya da eşit  olmasına bakar
+5.==:soldkinin sasğdakine denk olmasına bakar
+6.!=:soldkinin sasğdakine denk olmamasına bakar
+print(5>2)
+b=10
+c=12
+print (b<c)
+print(12==c)
+print("a">"A")
+
+
