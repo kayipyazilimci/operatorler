@@ -1,0 +1,21 @@
+KULLANICI VERİ TABAKASI
+veritabani_kadi="azraturk"
+verigtbani_sifre="192015"
+print("""*********************
+""")
+kadi =input("lutfen kullanici adi giriniz:")
+sifre=input ("lutfen sifre giriniz :")
+print("""******************************
+""")
+print ("sistemdeki bilgiye gore doğruluk degeri:" veritabani_kadi==kadi)
+print ("sistemdeki bilgiye gore doğruluk degeri:"verigtbani_sifre==sifre)
+VEYA
+veritabani_kadi="azraturk"
+verigtbani_sifre="192015"
+print("""*********************
+""")
+kadi =input("lutfen kullanici adi giriniz:")
+sifre=input ("lutfen sifre giriniz :")
+print("""******************************
+""")
+print ("sistemdeki bilgiye gore doğruluk degeri:" veritabani_kadi==kadi or verigtbani_sifre==sifre)
